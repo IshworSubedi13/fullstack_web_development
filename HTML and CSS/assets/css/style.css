@@ -14,24 +14,24 @@ header {
       position: sticky;
       top:0;
     }
-    nav ul {
+nav ul {
       list-style: none;
       display: flex;
       gap: 1rem;
     }
 
-    nav a {
+nav a {
       text-decoration: none;
       color: #333;
       font-weight: 500;
       transition: color 0.2s;
     }
 
-    nav a:hover {
+nav a:hover {
       color: #c0392b;
     }
 
-    .hero {
+.hero {
       background-image: url("../images/hero_section.jpg");
       background-size: cover;
       background-position: center;
@@ -44,7 +44,7 @@ header {
       text-align: center;
     }
 
-    .hero h2 {
+.hero h2 {
       font-size: 3rem;
       background: rgba(0, 0, 0, 0.5);
       padding: 1rem 2rem;
