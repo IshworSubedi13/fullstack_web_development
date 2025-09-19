@@ -15,7 +15,7 @@ The goal of this assignment is to practice creating a structured website with mu
 
 ## 📸 Screenshots
 
-<p align="center"> <img src="assets/sample_screenshot.png" width="200"/> <img src="assets/sample_screenshot_recyclerview.png" width="200"/> </p>
+<p align="center"> <img src="/HTML&CSS/assets/images/wave.png" width="200"/> <img src="/HTML&CSS/assets/images/w3cvalidator.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse1.png" width="200"/><img src="/HTML&CSS/assets/images/lighthouse2.png" width="200"/>  </p>
 
 
 ---
