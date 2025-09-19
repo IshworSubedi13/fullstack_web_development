@@ -11,9 +11,13 @@ The website includes three pages:
 The goal of this assignment is to practice creating a structured website with multiple pages, apply custom styling, and integrate images, colors, and fonts.
 
 ---
+### 🌍 Visit Website
+👉 [Click here to view the live site](https://users.metropolia.fi/~ishwors/HTML&CSS/home.html)
+
+---
 
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 <p align="center"> <img src="/HTML&CSS/assets/images/wave.png" width="200"/> <img src="/HTML&CSS/assets/images/w3cvalidator.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse1.png" width="200"/><img src="/HTML&CSS/assets/images/lighthouse2.png" width="200"/>  </p>
 
