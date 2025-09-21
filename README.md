@@ -22,7 +22,7 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 
 ### ✅ Validation Screenshots
 
-<p align="center"> <img src="/HTML&CSS/assets/images/wave.png" width="200"/> <img src="/HTML&CSS/assets/images/w3cvalidator.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse2.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse3.png" width="200"/>  </p>
+<p align="center"> <img src="/HTML&CSS/assets/images/screenshot/wave1.png" width="200"/> <img src="/HTML&CSS/assets/images/screenshot/w3cvalidator1.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse2.png" width="200"/> <img src="/HTML&CSS/assets/images/screenshot/lighthouse3.png" width="200"/>  </p>
 
 
 ---
