@@ -14,6 +14,9 @@ The goal of this assignment is to practice creating a structured website with mu
 ### 🌍 Visit Website
 👉 [Click here to view the live site](https://users.metropolia.fi/~ishwors/HTML&CSS/home.html)
 
+Index of /~ishwors/HTML&CSS
+https://users.metropolia.fi/~ishwors/HTML&CSS/
+
 ---
 
 
