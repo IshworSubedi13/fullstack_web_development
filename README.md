@@ -19,7 +19,7 @@ The goal of this assignment is to practice creating a structured website with mu
 
 ### ✅ Validation Screenshots
 
-<p align="center"> <img src="/HTML&CSS/assets/images/wave.png" width="200"/> <img src="/HTML&CSS/assets/images/w3cvalidator.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse1.png" width="200"/><img src="/HTML&CSS/assets/images/lighthouse2.png" width="200"/>  </p>
+<p align="center"> <img src="/HTML&CSS/assets/images/wave.png" width="200"/> <img src="/HTML&CSS/assets/images/w3cvalidator.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse2.png" width="200"/> <img src="/HTML&CSS/assets/images/lighthouse3.png" width="200"/>  </p>
 
 
 ---
