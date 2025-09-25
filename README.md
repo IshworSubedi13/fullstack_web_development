@@ -37,7 +37,7 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 |5,3p|
 |6,3p|
 |7,3p|
-|8,|
+|8,3p|
 |9,|
 |10,|
 |Total 18p|
