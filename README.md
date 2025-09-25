@@ -27,6 +27,9 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 
 ---
 ### JavaScript Assignment 
+
+👉 [Link to users.metropolia.fi](https://users.metropolia.fi/~ishwors/JavaScript/)
+
 ---
 | Module 1: Interactive programs + Conditional expressions and loops |
 |----------|
