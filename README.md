@@ -28,7 +28,7 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 ---
 ### JavaScript Assignment 
 ---
-| Module 1 |
+| Module 1: Interactive programs + Conditional expressions and loops |
 |----------|
 |1,1p|
 |2,2p|
@@ -36,11 +36,11 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 |4,3p|
 |5,3p|
 |6,3p|
-|7,3p|
+|7,2p|
 |8,3p|
-|9,|
-|10,|
-|Total 21p|
+|9,2p|
+|10,5p|
+|Total 27p|
 
 
 
