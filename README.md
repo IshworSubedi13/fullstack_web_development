@@ -40,7 +40,7 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 |8,3p|
 |9,|
 |10,|
-|Total 18p|
+|Total 21p|
 
 
 
