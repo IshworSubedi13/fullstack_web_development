@@ -34,8 +34,8 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 | Module 1: Interactive programs + Conditional expressions and loops | Module 2. Arrays and functions|
 |----------|--------|
 |1,1p|1,2p|
-|2,2p|2,|
-|3,3p|3,|
+|2,2p|2,2p|
+|3,3p|3,2p|
 |4,3p|4,|
 |5,3p|5,|
 |6,3p|6,|
@@ -43,7 +43,7 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 |8,3p|8,|
 |9,2p|9,|
 |10,5p|10,|
-|Total 27p|Total 2p|
+|Total 27p|Total 6p|
 
 
 
