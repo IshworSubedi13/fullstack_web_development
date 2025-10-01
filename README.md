@@ -43,7 +43,7 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 |8,3p|8,|
 |9,2p|9,|
 |10,5p|10,|
-|Total 27p|Total 6p|
+|Total 27p|Total 12p|
 
 
 
