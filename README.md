@@ -31,19 +31,20 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 👉 [Link to users.metropolia.fi](https://users.metropolia.fi/~ishwors/JavaScript/)
 
 ---
-| Module 1: Interactive programs + Conditional expressions and loops | Module 2. Arrays and functions|
-|----------|--------|
-|1,1p|1,2p|
-|2,2p|2,2p|
-|3,3p|3,2p|
-|4,3p|4,2p|
-|5,3p|5,2p|
-|6,3p|6,2p|
-|7,2p|7,2p|
-|8,3p|8,2p|
-|9,2p|9,3p|
-|10,5p|10,8p|
-|Total 27p|Total 27p|
+| Module 1: Interactive programs + Conditional expressions and loops | Module 2. Arrays and functions|Module 3. BOM, DOM and events|
+|----------|--------|--------|
+|1,1p|1,2p|1,2p|
+|2,2p|2,2p|2,2p|
+|3,3p|3,2p|3,2p|
+|4,3p|4,2p|4,2p|
+|5,3p|5,2p|5,|
+|6,3p|6,2p|6,|
+|7,2p|7,2p|7,|
+|8,3p|8,2p|8,|
+|9,2p|9,3p|9,|
+|10,5p|10,8p|10,|
+| | | 11,|
+|Total 27p|Total 27p|Total 8p|
 
 
 
