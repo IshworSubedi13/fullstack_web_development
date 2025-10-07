@@ -120,3 +120,22 @@ for (let i = 0; i < picArray.length; i++) {
 
   section.appendChild(article);
 }
+
+const dialogModal = document.getElementById('dialogModal');
+const modalImage = document.getElementById('modalImage');
+const closeModal = document.getElementById('closeModal');
+
+const articles = document.getElementsByTagName('article');
+
+for (let i = 0; i < articles.length; i++) {
+    articles[i].addEventListener('click', function() {
+    modalImage.src = picArray[i].image.large;
+    modalImage.alt = picArray[i].title;
+    dialogModal.showModal();
+  });
+}
+
+closeModal.addEventListener('click', function() {
+  dialogModal.close();
+});
+
