@@ -37,14 +37,14 @@ https://users.metropolia.fi/~ishwors/HTML&CSS/
 |2,2p|2,2p|2,2p|2,3p|
 |3,3p|3,2p|3,2p|3,7p|
 |4,3p|4,2p|4,2p|4,2p|
-|5,3p|5,2p|5,5p|5,|
-|6,3p|6,2p|6,1p|6,|
+|5,3p|5,2p|5,5p|5,2p|
+|6,3p|6,2p|6,1p|6,4p|
 |7,2p|7,2p|7,2p|7,|
 |8,3p|8,2p|8,4p| |
 |9,2p|9,3p|9,4p| |
 |10,5p|10,8p|10,2p| |
 | | | 11,6p| |
-|Total 27p|Total 27p|Total 32p|Total 14p|
+|Total 27p|Total 27p|Total 32p|Total 20p|
 
 
 
