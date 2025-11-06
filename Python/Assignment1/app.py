@@ -1,23 +1,19 @@
-from flask import Flask, jsonify
+from flask import Flask
 
-app = Flask(__name__, static_url_path='/public', static_folder='public')
+from Python.Assignment1.api.v1.routes.cat_routes import cats_bp
 
-@app.get("/")
-def index():
-    return "Welcome to REST API!"
 
-@app.get("/api/v1/cat")
-def get_cat():
-    cat = [{
-        "cat_id": "ali",
-        "name": "Mittens",
-        "birthdate": "2003-03-03",
-        "weight": 8,
-        "owner": "ishwor",
-        "image": "https://ishworsubedi.com.np/wp-content/uploads/2025/09/about_page.png"
-    }]
-    return jsonify(cat)
+def create_app():
+    app = Flask(__name__)
+    app.register_blueprint(cats_bp)
+
+    @app.route("/")
+    def index():
+        return {"message": "Welcome to my REST API!"}
+
+    return app
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=3000, debug=True)
+    app = create_app()
+    app.run(host="127.0.0.1", port=5000, debug=True)
