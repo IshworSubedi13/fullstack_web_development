@@ -1,11 +1,13 @@
 from flask import Flask
 
 from Python.Assignment1.api.v1.routes.cat_routes import cats_bp
+from Python.Assignment1.api.v1.routes.user_routes import users_bp
 
 
 def create_app():
     app = Flask(__name__)
     app.register_blueprint(cats_bp)
+    app.register_blueprint(users_bp)
 
     @app.route("/")
     def index():
